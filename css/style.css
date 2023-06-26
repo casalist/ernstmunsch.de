@@ -1,5 +1,9 @@
 @import "/css/bulma.min.css";
 
+.hero.has-intro-background {
+
+}
+
 .container {
     max-width: 800px !important;
 }
